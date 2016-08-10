@@ -46,6 +46,7 @@ Having trouble? Dig it? Feature request?
 
 - [help.heroku.com](https://help.heroku.com/)
 - [@hunterloftis](http://twitter.com/hunterloftis)
+- [Heroku Nodejs Programmers] (https://www.chrisranjana.com/heroku-nodejs-mongodb-programmers.html)
 - [GitHub issues](https://github.com/heroku/heroku-buildpack-nodejs/issues)
 
 ## Hacking
